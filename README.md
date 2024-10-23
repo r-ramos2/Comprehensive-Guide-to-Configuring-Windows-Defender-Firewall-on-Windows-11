@@ -1,9 +1,5 @@
 # Comprehensive Guide to Configuring Windows Defender Firewall on Windows 11
 
-This guide provides detailed instructions on configuring, managing, and securing your computer using Windows Defender Firewall on Windows 11. It includes best practices and step-by-step instructions for enabling, configuring, and customizing your firewall settings to enhance your system's security posture.
-
----
-
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Why Enable Windows Defender Firewall](#why-enable-windows-defender-firewall)
@@ -16,7 +12,7 @@ This guide provides detailed instructions on configuring, managing, and securing
 9. [Advanced Firewall Configurations](#advanced-firewall-configurations)
 10. [Blocking Windows Remote Management (WinRM)](#blocking-windows-remote-management-winrm)
 11. [Best Practices for Windows Defender Firewall](#best-practices-for-windows-defender-firewall)
-12. [Additional Resources](#additional-resources)
+12. [Resources](#additional-resources)
 
 ---
 
@@ -177,13 +173,7 @@ For heightened security, particularly on public networks, blocking Windows Remot
 
 ---
 
-## Additional Resources
+## Resources
 
 - [Windows Defender Firewall Documentation](https://learn.microsoft.com/en-us/windows/security/threat-protection/windows-defender-firewall/windows-firewall-with-advanced-security)
 - [CrowdSec Blocklists](https://www.crowdsec.net/blocklists)
-
----
-
-### Contributions
-
-Feel free to contribute, report issues, or submit feature requests via GitHub. Your feedback helps improve this guide and serves the broader Windows and cybersecurity communities.
